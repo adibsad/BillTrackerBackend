@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+gcp/
+data/
+*.swp
+env/
+legislators/
+cache/
+en.json
+index/
+search/index/
